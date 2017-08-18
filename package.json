@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-maxbit89-testutils",
+  "version": "1.0.0",
+  "description": "test utils for chai and mocha.",
+  "main": "utils.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxbit89/nodejs-maxbit89-testutils.git"
+  },
+  "keywords": [
+    "chai",
+    "mocha"
+  ],
+  "author": "Maxbit89 <maxbit89@gmail.com> (http://about:blank)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/maxbit89/nodejs-maxbit89-testutils/issues"
+  },
+  "homepage": "https://github.com/maxbit89/nodejs-maxbit89-testutils#readme",
+  "dependencies": {
+    "performance-now": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1"
+  }
+}
